@@ -6,8 +6,7 @@
 
 ## Contact
 
-[![Email](logos/gmail.png)](supreeth.kumar@nyu.edu)      [![LinkedIn](logos/linkedin.png)](https://linkedin.com/in/supreeth-kumar-k)      [![GitHub](logos/github.png)](https://github.com/supreethk6)
-[![Phone](logos/telephone.png)](+1 (646) 932-3263)
+[![Email](logos/gmail.png)](supreeth.kumar@nyu.edu)      [![LinkedIn](logos/linkedin.png)](https://linkedin.com/in/supreeth-kumar-k)      [![GitHub](logos/github.png)](https://github.com/supreethk6)      [![Phone](logos/telephone.png)](+1 (646) 932-3263)
 
 ## ![Skills](logos/skills.png) Skills
 
@@ -30,6 +29,7 @@
 ## ![Experience](logos/experience.png) Experience
 
 ### ![Knightscope](logos/Knightscope_Render.png) Knightscope, Mountain View
+
 #### Sr. Robotics Software Engineer
 - AUG 2019 - PRESENT
 - Lead the Knightscope’s (KI) Autonomous Data Machine (ADM) Core team to work on a Research and Development project. This project helps Knightscope in improving overall robot navigation and reduction in operational and service cost with a newer K5 robot body and sensors.
@@ -46,16 +46,19 @@ so they can adapt robots to function optimally in its local environment.
 - Lead, and managed a small team of remote robotic engineers to create analytics and system data collection tools. These tools help in graphing robot failure modes and improve the quality of the robot fleet aimed at reducing operational, and service cost.
 
 ### ![NYU](logos/NYU_Stacked_RGB_Color.png) New York University, New York
+
 #### Graduate Research Assistant
 - APR 2018 - MAY 2019
 - In collaboration with Civil and Urban Engineering (CUE) & Mechanical and Aerospace Engineering (MAE) departments worked on ConBot – Mobile Robotic 3D printing concrete using Collaborative Robots project and NYU American Society of Civil Engineers (ASCE)
 Concrete Canoe Competition.
 - Develop a  Drone curriculum (for Science of Smart Cities program) for elementary school students. And handle administrative work and logistics management in K–12.
 
+
 ## ![Education](logos/graduation.png) Education
 
 ### ![NYU](logos/NYU_Stacked_RGB_Color.png) New York University
 #### M.S. Mechatronics, Robotics & Automation Engineering
+
 - SEPT 2017 - MAY 2019
 - Advanced Mechatronics, Mobile Robotics, Entrepreneurship, Simulation Tools & Software for Mechatronics & Robotics, Robot Perception, Swarm Robotics, Master’s Project Thesis.
 - Mentored Entrepreneurship and Robotics to K12 teachers and students for [Innovative Technology Experiences for Students and Teachers](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1614085&HistoricalAwards=false) professional development program in association with the National Science Foundation (NSF - DRL).
@@ -105,7 +108,9 @@ Concrete Canoe Competition.
 - Developed a prototype to automate the process of getting medicine from racks to pharmacists based on prescriptions.
 - Designed Robotic system has [Rack System, Color Detection and Gripper Actuation](https://youtu.be/dMCMP6FV6wA), and [Mobile Robot](https://youtu.be/iQaKtqTS6ls).
 
+
 ### ![SiS](https://drive.google.com/file/d/1GG6Ro3dmG3kDetP0JjyzoOz8DxStoq64/view?usp=sharing) SiS (Smart Irrigation System)
+
 - FEB 2018 – MAY 2018
 - Developed a device to help farmers get control over water level mainly for the purpose of Irrigation in their farms remotely (mainly focusing on paddy fields).
 - A full process start-up based project, especially for the Entrepreneurship course.
